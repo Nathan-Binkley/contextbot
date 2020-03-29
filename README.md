@@ -1,2 +1,2 @@
-# contextbot
-Reddit context bot
+# context-bot
+Context bot for Reddit
