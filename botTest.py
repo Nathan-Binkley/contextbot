@@ -115,7 +115,7 @@ def replyComment(post, comment):
 
 
 def send_to_db(data):
-    print("\n\n")
+    print("\n\nSENDING TO DATABASE")
     try:
         client.postData.posts.delete_many(data)
     except Exception as e:
